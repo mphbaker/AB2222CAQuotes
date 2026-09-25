@@ -1,0 +1,17 @@
+# Raw rendered Digital Democracy pages/transcripts
+data/raw_transcripts/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
